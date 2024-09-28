@@ -1,3 +1,2 @@
-# Mega project with Chai Aur Code on youtube
+# Mega project 
 
-Integrating various Social Media platforms on one place with javascript
